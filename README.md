@@ -7,3 +7,6 @@
 再利用python做出經過濾波器的圖，
 上圖結果應該和picoscope測量結果相同，
 下圖則為選擇的頻率。
+ 
+ ![image] https://github.com/yuchen0816/hw2/blob/master/截圖%202021-03-30%20下午10.08.08.png
+ 
